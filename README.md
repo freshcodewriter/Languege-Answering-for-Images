@@ -1,5 +1,5 @@
 # Languege-Answering-for-Images-
-Implementing a system capable of answering open-ended questions about a given image. Image features are generated using a pre-trained CNN and text features are extracted using an RNN with GRUs.
+Implementing a system capable of answering open-ended questions about a given image. Image features are generated using a pre-trained CNN and text features are extracted using an RNN with LSTM.
 Train
 
 The basic usage is python train.py, the model to train is model.py. 
